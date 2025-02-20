@@ -1,3 +1,4 @@
 *.jpg
 *.png
-.env
+*.env
+/Users/joshstrupp/Documents/Working/Educational/MSDV/MS2/workshop/.env

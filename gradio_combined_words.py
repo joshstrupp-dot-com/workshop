@@ -1,4 +1,3 @@
-%pip install openai
 import gradio as gr
 from openai import OpenAI
 import requests
